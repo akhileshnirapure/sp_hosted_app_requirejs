@@ -1,5 +1,5 @@
 ﻿define(function () {
-    debugger; 
+    //debugger; 
     var rconfig = {
         baseUrl: '../Scripts/app',
         deps:

@@ -58,7 +58,8 @@ var simpleModule = function (jQuery) {
             clientContext.executeQueryAsync(onSuccess, onFail);
 
             function onSuccess() {
-                alert(userProfileProperties.get_displayName());
+                var _msg = "Display name from User Profile Properties : ";
+                alert(_msg + userProfileProperties.get_displayName());
 
             };
 
