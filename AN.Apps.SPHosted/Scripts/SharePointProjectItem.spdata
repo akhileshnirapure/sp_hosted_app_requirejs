@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="app\lib\jquery-1.9.1.min.map" Target="Scripts\app\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="app\lib\jquery-1.9.1.min.js" Target="Scripts\app\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="app\lib\jquery-1.9.1.js" Target="Scripts\app\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="app\lib\jquery-1.9.1.intellisense.js" Target="Scripts\app\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="app\require.js" Target="Scripts\app\" Type="ElementFile" />
+    <ProjectItemFile Source="app\r.js" Target="Scripts\app\" Type="ElementFile" />
+    <ProjectItemFile Source="app\lib\knockout-3.1.0.js" Target="Scripts\app\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="app\lib\knockout-3.1.0.debug.js" Target="Scripts\app\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="app\config.js" Target="Scripts\app\" Type="ElementFile" />
+    <ProjectItemFile Source="app\lib\jquery-an.js" Target="Scripts\app\lib\" Type="ElementFile" />
+    <ProjectItemFile Source="app\modules\start.js" Target="Scripts\app\modules\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
