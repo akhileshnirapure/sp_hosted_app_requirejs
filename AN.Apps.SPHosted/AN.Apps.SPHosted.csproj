@@ -43,6 +43,8 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Scripts\app\lib\domReady.js" />
+    <Content Include="Scripts\app\lib\text.js" />
     <None Include="packages.config" />
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{bd20ad9f-58b6-47b9-84d5-87195ccc2f0a}</SharePointProjectItemId>

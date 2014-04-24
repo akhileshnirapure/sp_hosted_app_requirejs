@@ -14,5 +14,7 @@
     <File Path="Scripts\app\modules\start.js" Url="Scripts/app/modules/start.js" ReplaceContent="TRUE" />
     <File Path="Scripts\app\modules\userinfo_userprofile.js" Url="Scripts/app/modules/userinfo_userprofile.js" ReplaceContent="TRUE" />
     <File Path="Scripts\app\modules\userinfo_web.js" Url="Scripts/app/modules/userinfo_web.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\lib\text.js" Url="Scripts/app/lib/text.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\lib\domReady.js" Url="Scripts/app/lib/domReady.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>
