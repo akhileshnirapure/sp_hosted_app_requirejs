@@ -57,6 +57,8 @@
     </None>
     <Content Include="Scripts\app\config.js" />
     <Content Include="Scripts\app\lib\jquery-an.js" />
+    <Content Include="Scripts\app\modules\userinfo_web.js" />
+    <Content Include="Scripts\app\modules\userinfo_userprofile.js" />
     <Content Include="Scripts\app\modules\start.js" />
     <Content Include="Scripts\Elements.xml" />
     <Content Include="Scripts\app\lib\jquery-1.9.1.intellisense.js" />

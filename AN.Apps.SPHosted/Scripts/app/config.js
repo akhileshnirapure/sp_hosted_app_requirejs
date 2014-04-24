@@ -37,6 +37,10 @@
             ko: "lib/knockout-3.1.0",
 
             boot: "modules/start",
+            ui_web: "modules/userinfo_web",
+            ui_profile: "modules/userinfo_userprofile",
+
+
 
         },
         map: {
@@ -48,7 +52,8 @@
             // though. If this line was not here, there would
             // be an unresolvable cyclic dependency.
             'jqueryan': { 'jquery': 'jquery' }
-        }
+        },
+        urlArgs: "bust=" + (new Date()).getTime()
 
     };
 

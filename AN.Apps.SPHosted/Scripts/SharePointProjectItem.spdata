@@ -13,5 +13,7 @@
     <ProjectItemFile Source="app\config.js" Target="Scripts\app\" Type="ElementFile" />
     <ProjectItemFile Source="app\lib\jquery-an.js" Target="Scripts\app\lib\" Type="ElementFile" />
     <ProjectItemFile Source="app\modules\start.js" Target="Scripts\app\modules\" Type="ElementFile" />
+    <ProjectItemFile Source="app\modules\userinfo_userprofile.js" Target="Scripts\app\modules\" Type="ElementFile" />
+    <ProjectItemFile Source="app\modules\userinfo_web.js" Target="Scripts\app\modules\" Type="ElementFile" />
   </Files>
 </ProjectItem>

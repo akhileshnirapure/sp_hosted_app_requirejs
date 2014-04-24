@@ -12,5 +12,7 @@
     <File Path="Scripts\app\config.js" Url="Scripts/app/config.js" ReplaceContent="TRUE" />
     <File Path="Scripts\app\lib\jquery-an.js" Url="Scripts/app/lib/jquery-an.js" ReplaceContent="TRUE" />
     <File Path="Scripts\app\modules\start.js" Url="Scripts/app/modules/start.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\modules\userinfo_userprofile.js" Url="Scripts/app/modules/userinfo_userprofile.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\modules\userinfo_web.js" Url="Scripts/app/modules/userinfo_web.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>
