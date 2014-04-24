@@ -15,18 +15,6 @@
             spruntime_js: window.location.origin + "/_layouts/15/sp.runtime",
             sp_js: window.location.origin + "/_layouts/15/sp",
 
-           
-
-            //  Core Modules, defines the namespace
-            core: 'init',
-
-
-            viewmodel: 'viewmodels',
-            template: 'templates',
-
-            //  Page Modules 
-            home: 'pages/home',
-
             //  Require JS Plugins, 
             domReady: 'lib/domReady', //    For ensuring the dom is loaded
             text: 'lib/text',         //    For Downloading the html templates
@@ -38,10 +26,7 @@
 
             boot: "modules/start",
             ui_web: "modules/userinfo_web",
-            ui_profile: "modules/userinfo_userprofile",
-
-
-
+            ui_profile: "modules/userinfo_userprofile"
         },
         map: {
             // '*' means all modules will get 'jquery-ps'

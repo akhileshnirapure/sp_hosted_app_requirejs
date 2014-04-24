@@ -13,7 +13,8 @@ var userInfoWebModule = function (jQuery) {
             context.executeQueryAsync(onGetUserNameSuccess, onGetUserNameFail);
 
             function onGetUserNameSuccess() {
-                jQuery('#ui_web').text('Hello ' + user.get_title());
+                var _msg = "Display name from Web : " + user.get_title();
+                jQuery('#ui_web').text(_msg);
             };
 
             // This function is executed if the above call fails
